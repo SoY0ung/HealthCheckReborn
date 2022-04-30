@@ -19,32 +19,33 @@ Tested on
 - [x] iPhone 6s - iOS 13.2.2
 - [x] iPhone 12 Pro - iOS 14.3 [Simulator]
 - [x] iPhone 13 Pro Max - iOS 15.0 [Simulator]
+- [x] iPhone 8 - iOS 14.3 [Simulator]
 
 ## Privacy / 隐私
 
 ### Permissions 权限
 
-    - 🗂 Run another shortcut 运行其他快捷指令
-       
-       This shortcut will access to: / 此快捷指令会运行：
-       
-       ​    ① Dependency 1 依赖1
-    
-       ​    ② Dependency 2 依赖2
-       
-    - 🌍 Network connection 网络连接
-       
-       This shortcut will access to: / 此快捷指令会访问：
-       
-       ​	① auth.wtu.edu.cn
-    
-       ​	② ehall.wtu.edu.cn
-       
-       ​	③ bhshare.cn
-       
-       **No other sites will be accessed**
-       
-    **不会访问除此以外的其他站点**
+- 🗂 Run another shortcut 运行其他快捷指令
+
+  This shortcut will access to: / 此快捷指令会运行：
+
+      ① Dependency 1 依赖1
+      
+      ② Dependency 2 依赖2
+
+- 🌍 Network connection 网络连接
+
+  This shortcut will access to: / 此快捷指令会访问：
+
+  	① auth.wtu.edu.cn
+  	
+  	② ehall.wtu.edu.cn
+  	
+  	③ bhshare.cn
+
+  **No other sites will be accessed**
+
+​      **不会访问除此以外的其他站点**
 
    - 📣 Notification 通知
 
@@ -72,15 +73,15 @@ Tested on
 
   - **Main shortcut 主快捷指令**
 
-    [下载](data:text/html;base64,PGh0bWw+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KRVRBIFNPTiA7KQo8YnI+CuWNs+WwhuWPkeW4gyA7KQo8aHRtbD4=)
+    [下载](www.baidu.com)
 
   - **Dependency 1 依赖1**
 
-    [下载](data:text/html;base64,PGh0bWw+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KRVRBIFNPTiA7KQo8YnI+CuWNs+WwhuWPkeW4gyA7KQo8aHRtbD4=)
+    [下载](www.baidu.com)
 
   - **Dependency 2 依赖2** 
 
-    [下载](data:text/html;base64,PGh0bWw+CjxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KRVRBIFNPTiA7KQo8YnI+CuWNs+WwhuWPkeW4gyA7KQo8aHRtbD4=)
+    [下载](www.baidu.com)
 
 - Before you run the Main shortcut, please **make sure Dependency 1 & Dependency 2 are added to Library**
 
