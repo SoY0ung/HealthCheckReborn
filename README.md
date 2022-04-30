@@ -10,15 +10,8 @@ Apple Shortcut implement for WTU Health Check.
 
 ### 运行截图
 
-<center>
-	<img src="https://www.helloimg.com/images/2022/04/30/R2211b.png" width="30%" />
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<img src="https://www.helloimg.com/images/2022/04/30/R22PkK.png" width="30%" />
-	<br/>
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-</center>
+<img src="https://www.helloimg.com/images/2022/04/30/R2211b.png" width="40%" height="40%" /><img src="https://www.helloimg.com/images/2022/04/30/R22PkK.png" width="40%" height="40%" />
+	
 
 
 
