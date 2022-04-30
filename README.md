@@ -29,23 +29,23 @@ Tested on
 
   This shortcut will access to: / 此快捷指令会运行：
 
-      ① Dependency 1 依赖1
-      
-      ② Dependency 2 依赖2
+  ① Dependency 1 依赖1
+
+  ② Dependency 2 依赖2
 
 - 🌍 Network connection 网络连接
 
   This shortcut will access to: / 此快捷指令会访问：
 
-  	① auth.wtu.edu.cn
-  	
-  	② ehall.wtu.edu.cn
-  	
-  	③ bhshare.cn
+  ① auth.wtu.edu.cn
+
+  ② ehall.wtu.edu.cn
+
+  ③ bhshare.cn
 
   **No other sites will be accessed**
 
-​      **不会访问除此以外的其他站点**
+  **不会访问除此以外的其他站点**
 
    - 📣 Notification 通知
 
@@ -73,15 +73,15 @@ Tested on
 
   - **Main shortcut 主快捷指令**
 
-    [下载](www.baidu.com)
+    [下载](https://www.icloud.com/shortcuts/ab882a6a91e648cf8ca18b47835e8906)
 
   - **Dependency 1 依赖1**
 
-    [下载](www.baidu.com)
+    [下载](https://www.icloud.com/shortcuts/e50aec68be6d40c2b208929c30bee578)
 
   - **Dependency 2 依赖2** 
 
-    [下载](www.baidu.com)
+    [下载](https://www.icloud.com/shortcuts/1dff44e18bfd42c688134d7e3ba72216)
 
 - Before you run the Main shortcut, please **make sure Dependency 1 & Dependency 2 are added to Library**
 
@@ -114,7 +114,7 @@ Tested on
 ## Screenshots / 运行截图
 
 <img src="https://www.helloimg.com/images/2022/04/30/R2211b.png" width="40%" height="40%" /><img src="https://www.helloimg.com/images/2022/04/30/R22PkK.png" width="40%" height="40%" />
-<img src="https://www.helloimg.com/images/2022/04/30/R2T45c.png" width="40%" height="40%" /><img src="https://www.helloimg.com/images/2022/04/30/R2Tsph.png" width="40%" height="40%" />
+<img src="https://www.helloimg.com/images/2022/04/30/R2T45c.png" width="40%" height="40%" /><img src="https://www.helloimg.com/images/2022/04/30/R2T2iD.png" width="40%" height="40%" />
 	
 
 ## 常见问题 (Chinese only)
