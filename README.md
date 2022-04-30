@@ -1,7 +1,5 @@
 # HealthCheck Reborn
 
-## ETA: March 1, 2022 / 释出时间：2022年5月1日
-
 > Meets a brand new shortcut. / 遇见焕然一新的捷径。
 
 Apple Shortcut implement for WTU Health Check.
@@ -45,7 +43,7 @@ Tested on
 
   **No other sites will be accessed**
 
-  **不会访问除此以外的其他站点**
+​        **不会访问除此以外的其他站点**
 
    - 📣 Notification 通知
 
@@ -73,15 +71,15 @@ Tested on
 
   - **Main shortcut 主快捷指令**
 
-    [下载](https://www.icloud.com/shortcuts/ab882a6a91e648cf8ca18b47835e8906)
+    [获取](https://www.icloud.com/shortcuts/ab882a6a91e648cf8ca18b47835e8906)
 
   - **Dependency 1 依赖1**
 
-    [下载](https://www.icloud.com/shortcuts/e50aec68be6d40c2b208929c30bee578)
+    [获取](https://www.icloud.com/shortcuts/e50aec68be6d40c2b208929c30bee578)
 
   - **Dependency 2 依赖2** 
 
-    [下载](https://www.icloud.com/shortcuts/1dff44e18bfd42c688134d7e3ba72216)
+    [获取](https://www.icloud.com/shortcuts/1dff44e18bfd42c688134d7e3ba72216)
 
 - Before you run the Main shortcut, please **make sure Dependency 1 & Dependency 2 are added to Library**
 
@@ -152,3 +150,9 @@ Tested on
 - Q: 提示“错误-提交打卡申请时发生错误”
 
   A: 可以再试一次，如果问题仍然存在，请发送issue（附上错误信息）。
+
+## Acknowledgement / 鸣谢
+
+Temporarily invisible
+
+暂不可见
