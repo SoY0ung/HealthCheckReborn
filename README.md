@@ -24,27 +24,27 @@ Tested on
 
 ### Permissions 权限
 
-   - 🗂 Run another shortcut 运行其他快捷指令
-
-     This shortcut will access to: / 此快捷指令会运行：
-
-     ​    ① Dependency 1 依赖1
-
-     ​    ② Dependency 2 依赖2
-
-   - 🌍 Network connection 网络连接
-
-     This shortcut will access to: / 此快捷指令会访问：
-
-     ​	① auth.wtu.edu.cn
-
-     ​	② ehall.wtu.edu.cn
-
-     ​	③ bhshare.cn
-
-     **No other sites will be accessed**
-
-     **不会访问除此以外的其他站点**
+    - 🗂 Run another shortcut 运行其他快捷指令
+       
+       This shortcut will access to: / 此快捷指令会运行：
+       
+       ​    ① Dependency 1 依赖1
+    
+       ​    ② Dependency 2 依赖2
+       
+    - 🌍 Network connection 网络连接
+       
+       This shortcut will access to: / 此快捷指令会访问：
+       
+       ​	① auth.wtu.edu.cn
+    
+       ​	② ehall.wtu.edu.cn
+       
+       ​	③ bhshare.cn
+       
+       **No other sites will be accessed**
+       
+    **不会访问除此以外的其他站点**
 
    - 📣 Notification 通知
 
@@ -106,12 +106,21 @@ Tested on
 
   更多说明请见注释...
 
+- Allow secondary development and distribution, need to indicate the source
+
+  允许二次开发并分发，需要注明来源
+
 ## Screenshots / 运行截图
 
 <img src="https://www.helloimg.com/images/2022/04/30/R2211b.png" width="40%" height="40%" /><img src="https://www.helloimg.com/images/2022/04/30/R22PkK.png" width="40%" height="40%" />
+<img src="https://www.helloimg.com/images/2022/04/30/R2T45c.png" width="40%" height="40%" /><img src="https://www.helloimg.com/images/2022/04/30/R2Tsph.png" width="40%" height="40%" />
 	
 
 ## 常见问题 (Chinese only)
+
+- Q: 获取快捷指令时提示“此快捷指令无法打开，因为您的“快捷指令”安全性设置不允许不受信任的快捷指令”
+
+  A: 前往“设置”>“快捷指令”>打开“允许不受信任的快捷指令”，如果开关是灰色的，你需要先运行一次快捷指令，具体教程可以百度。
 
 - Q: 依赖2的token是什么，可以不配置吗？
 
@@ -142,4 +151,3 @@ Tested on
 - Q: 提示“错误-提交打卡申请时发生错误”
 
   A: 可以再试一次，如果问题仍然存在，请发送issue（附上错误信息）。
-
