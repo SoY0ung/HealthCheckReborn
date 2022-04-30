@@ -18,7 +18,7 @@ Tested on
 - [x] iPad (8th generation) - iPadOS 15.3.1
 - [x] iPhone 6s - iOS 13.2.2
 - [x] iPhone 12 Pro - iOS 14.3 [Simulator]
-- [x] iPhone 13 Pro Max - iOS 15.0
+- [x] iPhone 13 Pro Max - iOS 15.0 [Simulator]
 
 ### Screenshots / 运行截图
 
