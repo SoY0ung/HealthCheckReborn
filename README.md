@@ -2,7 +2,7 @@
 
 > Meets a brand new shortcut. / 遇见焕然一新的捷径。
 
-Apple Shortcut implement for WTU Health Check.
+Apple Shortcut implementation for WTU Health Check.
 
 武纺健康打卡的苹果快捷指令实现。
 
